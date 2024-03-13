@@ -1,0 +1,70 @@
+package oopMavenProject.Animal.com;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Test;
+
+public class TestAnimal {
+	public static void main(String[] args) {
+		checkDog();
+		checkCat();
+		checkFrog();
+		checkAnimal();
+	}
+
+	private static void checkAnimal() {
+		Animal DogIsAnimal = new Dog(true, true, 1);
+		DogIsAnimal.sayHello();
+		Animal CatIsAnimal = new Cat(true, true, 1);
+		CatIsAnimal.sayHello();
+		Animal FrogIsAnimal = new Frog(false, false, 1);
+		FrogIsAnimal.sayHello();
+	}
+
+	private static void checkFrog() {
+		Frog frog = new Frog(false, false, 2);
+		frog.sayHello();
+		frog.sayHello(2);
+	}
+
+	private static void checkCat() {
+		Cat cat = new Cat(true, true, 2);
+		cat.sayHello();
+		cat.sayHello(2);
+	}
+
+	private static void checkDog() {
+		Dog dog = new Dog(true, true, 1);
+		dog.sayHello();
+		dog.sayHello(2);
+	}
+
+	@Test
+	public void testDog() {
+		Dog dog = new Dog(true, true, 1);
+		assertEquals(4, dog.getNumberOfLegs());
+		assertTrue(dog.isMammals());
+		assertTrue(dog.isCarnivorous());
+	}
+
+	@Test
+	public void testCat() {
+		Cat cat = new Cat(true, true, 2);
+		assertEquals(4, cat.getNumberOfLegs());
+		assertTrue(cat.isMammals());
+		assertTrue(cat.isCarnivorous());
+	}
+
+	@Test
+	public void testFrog() {
+		Frog frog = new Frog(false, false, 2);
+		assertEquals(4, frog.getNumberOfLegs());
+		assertFalse(frog.isMammals());
+		assertFalse(frog.isCarnivorous());
+		assertTrue(frog.hasGills());
+		assertTrue(frog.hasLaysEggs());
+	}
+
+}

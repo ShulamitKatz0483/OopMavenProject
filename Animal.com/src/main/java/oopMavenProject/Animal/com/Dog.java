@@ -1,0 +1,51 @@
+package oopMavenProject.Animal.com;
+
+public class Dog extends Animal implements Land {
+
+	int numberOfLegs;
+
+	Dog(boolean mammals, boolean carnivorous, int mood) {
+		super(mammals, carnivorous, mood);
+		this.numberOfLegs = 4;
+	}
+
+	/**
+	 * The method print the voice according to mood attribute. If the value of the
+	 * mood is 1 the method print Barking loudly... If the value of the mood is 2
+	 * the method print whooping... Else the method print Wagging tail...
+	 */
+	@Override
+	public void sayHello() {
+		if (mood == MOOD_HAPPY) {
+			System.out.println("Barking loudly...");
+		} else if (mood == MOOD_SCARE) {
+			System.out.println("Making a whooping sound...");
+		} else {
+			System.out.println("Wagging tail...");
+		}
+
+	}
+
+	/**
+	 * The method print the voice according to say parameter.
+	 * 
+	 * @param say if the value of the param is 1 the method print Barking loudly...
+	 *            if the value of the param is 2 the method print whooping... 
+	 *            else the method print Wagging tail...
+	 */
+	@Override
+	public void sayHello(int say) {
+		if (say == MOOD_HAPPY) {
+			System.out.println("Barking loudly...");
+		} else if (say == MOOD_SCARE) {
+			System.out.println("Making a whooping sound...");
+		} else {
+			System.out.println("Wagging tail...");
+		}
+
+	}
+
+	public int getNumberOfLegs() {
+		return numberOfLegs;
+	}
+}

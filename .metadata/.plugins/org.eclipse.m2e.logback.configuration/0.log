@@ -1,0 +1,87 @@
+2024-03-12 19:11:41,399 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-12 19:11:42,088 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-03-12 19:13:56,452 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\pom.xml
+2024-03-12 19:13:59,337 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: oopMavenProject:Animal.com:0.0.1-SNAPSHOT @ C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\pom.xml.
+2024-03-12 19:14:00,265 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Animal.com/src/main/java
+2024-03-12 19:14:00,273 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Animal.com/src/test/java
+2024-03-12 19:14:00,857 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-03-12 19:14:01,393 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:14:01,393 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:14:01,394 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:14:01,396 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:14:40,271 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:14:40,271 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:14:40,273 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:14:40,273 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:15:34,903 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:15:34,903 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:15:34,904 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:15:34,904 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:15:37,107 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:15:37,108 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:15:37,109 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:15:37,109 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:16:43,299 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:16:43,300 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:16:43,301 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:16:43,301 [Worker-3: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:18:49,811 [Worker-7: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:18:49,811 [Worker-7: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:18:49,812 [Worker-7: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:18:49,812 [Worker-7: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:19:24,630 [Worker-4: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:19:24,630 [Worker-4: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:19:24,631 [Worker-4: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:19:24,631 [Worker-4: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:19:34,909 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:19:34,909 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:19:34,912 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:19:34,912 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:20:09,561 [Worker-1: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:20:09,562 [Worker-1: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:20:09,563 [Worker-1: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:20:09,563 [Worker-1: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:20:46,636 [Worker-3: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:20:46,637 [Worker-3: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:20:46,639 [Worker-3: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:20:46,639 [Worker-3: Launching TestAnimal] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:35:07,421 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:35:07,421 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:35:07,422 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:35:07,423 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:37:03,203 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:37:03,203 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:37:03,204 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:37:03,204 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:37:46,220 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:37:46,220 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:37:46,220 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:37:46,220 [Worker-16: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-12 19:55:30,177 [Worker-22: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:55:30,177 [Worker-22: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-12 19:55:30,177 [Worker-22: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-12 19:55:30,178 [Worker-22: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-13 11:54:05,328 [Worker-50: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 11:54:05,328 [Worker-50: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-13 11:54:05,328 [Worker-50: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 11:54:05,328 [Worker-50: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-13 12:37:07,982 [Worker-62: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:37:07,983 [Worker-62: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-13 12:37:07,986 [Worker-62: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:37:07,986 [Worker-62: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-13 12:50:13,573 [Worker-68: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:50:13,573 [Worker-68: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-13 12:50:13,574 [Worker-68: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:50:13,574 [Worker-68: Launching TestAnimal (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-13 12:58:29,975 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:58:29,975 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-13 12:58:29,976 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:58:29,977 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-13 12:58:37,680 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:58:37,680 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-13 12:58:37,681 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 12:58:37,681 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources
+2024-03-13 17:09:28,475 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 17:09:28,475 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\main\resources
+2024-03-13 17:09:28,476 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-13 17:09:28,476 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Owner\Documents\שולמית\verisoft object oriented assignement\oopMavenProject\Animal.com\src\test\resources

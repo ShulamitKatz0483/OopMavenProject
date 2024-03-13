@@ -1,0 +1,50 @@
+package oopMavenProject.Animal.com;
+
+public class TestAnimal {
+
+	public static void main(String[] args) {
+//		checkDog();
+//		checkCat();
+		checkFrog();
+		//checkAnimal();
+		}
+
+	private static void checkAnimal() {
+		Animal DogIsAnimal= new Dog(true,true,1);
+		DogIsAnimal.sayHello();
+		Animal CatIsAnimal= new Cat(true,true,1);
+		CatIsAnimal.sayHello();
+		Animal FrogIsAnimal= new Frog(false,false,1);
+		FrogIsAnimal.sayHello();
+	}
+
+	private static void checkFrog() {
+		Frog Ztachi=new Frog(false,false,2);
+		Ztachi.sayHello();
+		Ztachi.sayHello(2);
+		System.out.println(Ztachi.getNumberOfLegs());
+		System.out.println(Ztachi.isMammals());
+		System.out.println(Ztachi.isCarnivorous());
+		System.out.println(Ztachi.hasGills());
+		System.out.println(Ztachi.hasLaysEggs());		
+	}
+
+	private static void checkCat() {
+		Cat Kitten=new Cat(true,true,2);
+		Kitten.sayHello();
+		Kitten.sayHello(2);
+		System.out.println(Kitten.getNumberOfLegs());
+		System.out.println(Kitten.isMammals());
+		System.out.println(Kitten.isCarnivorous());
+	}
+
+	private static void checkDog() {
+		Dog Willi=new Dog(true,true,1);
+		Willi.sayHello();
+		Willi.sayHello(2);
+		System.out.println(Willi.getNumberOfLegs());
+		System.out.println(Willi.isMammals());
+		System.out.println(Willi.isCarnivorous());
+	}
+
+}

@@ -1,0 +1,93 @@
+package oopMavenProject.Animal.com;
+
+import static org.junit.Assert.assertEquals;
+import org.junit.Test;
+
+public class TestAnimal {
+	@Test
+	public void testDog() {
+		Dog dog = new Dog(true, true, 1);
+		// assertEquals("Barking loudly...", dog.sayHello());
+		// assertEquals("Making a whooping sound...", dog.sayHello(2));
+		assertEquals(4, dog.getNumberOfLegs());
+		assertEquals(true, dog.isMammals());
+		assertEquals(true, dog.isCarnivorous());
+	}
+
+	@Test
+	public void testCat() {
+		Cat cat = new Cat(true, true, 2);
+		// assertEquals("Hiss", cat.sayHello());
+		// assertEquals("Hiss", cat.sayHello(2));
+		assertEquals(4, cat.getNumberOfLegs());
+		assertEquals(true, cat.isMammals());
+		assertEquals(true, cat.isCarnivorous());
+	}
+
+	@Test
+	public void testFrog() {
+		Frog frog = new Frog(false, false, 2);
+		// assertEquals("Hello", frog.sayHello());
+		// assertEquals("plop into the water", frog.sayHello(2));
+		assertEquals(4, frog.getNumberOfLegs());
+		assertEquals(false, frog.isMammals());
+		assertEquals(false, frog.isCarnivorous());
+		assertEquals(true, frog.hasGills());
+		assertEquals(true, frog.hasLaysEggs());
+	}
+
+	@Test
+	public void testAnimal() {
+		Animal DogIsAnimal = new Dog(true, true, 1);
+		// assertEquals("Barking loudly...", dog.sayHello());
+		Animal CatIsAnimal = new Cat(true, true, 1);
+		// assertEquals("Hiss", cat.sayHello());
+		Animal FrogIsAnimal = new Frog(false, false, 1);
+		// assertEquals("Hello", frog.sayHello());
+	}
+//	public static void main(String[] args) {
+//		checkDog();
+//		checkCat();
+//		checkFrog();
+//		checkAnimal();
+//		}
+//
+//	private static void checkAnimal() {
+//		Animal DogIsAnimal= new Dog(true,true,1);
+//		DogIsAnimal.sayHello();
+//		Animal CatIsAnimal= new Cat(true,true,1);
+//		CatIsAnimal.sayHello();
+//		Animal FrogIsAnimal= new Frog(false,false,1);
+//		FrogIsAnimal.sayHello();
+//	}
+//
+//	private static void checkFrog() {
+//		Frog Ztachi=new Frog(false,false,2);
+//		Ztachi.sayHello();
+//		Ztachi.sayHello(2);
+//		System.out.println(Ztachi.getNumberOfLegs());
+//		System.out.println(Ztachi.isMammals());
+//		System.out.println(Ztachi.isCarnivorous());
+//		System.out.println(Ztachi.hasGills());
+//		System.out.println(Ztachi.hasLaysEggs());		
+//	}
+//
+//	private static void checkCat() {
+//		Cat Kitten=new Cat(true,true,2);
+//		Kitten.sayHello();
+//		Kitten.sayHello(2);
+//		System.out.println(Kitten.getNumberOfLegs());
+//		System.out.println(Kitten.isMammals());
+//		System.out.println(Kitten.isCarnivorous());
+//	}
+//
+//	private static void checkDog() {
+//		Dog Willi=new Dog(true,true,1);
+//		Willi.sayHello();
+//		Willi.sayHello(2);
+//		System.out.println(Willi.getNumberOfLegs());
+//		System.out.println(Willi.isMammals());
+//		System.out.println(Willi.isCarnivorous());
+//	}
+
+}
